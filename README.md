@@ -2,11 +2,16 @@
 
 <p>
 <div align="center">
-<img height="40px" src="https://img.shields.io/badge/-Prabhutva-61DAFB?&style=for-the-badge&logoWidth=50"/>
-<img height="40px" src="https://img.shields.io/badge/-Bajpai-5457ff?&style=for-the-badge&logoWidth=50"/>
+<img height="40px" src="https://img.shields.io/badge/-Sankalp-61DAFB?&style=for-the-badge&logoWidth=50"/>
+<img height="40px" src="https://img.shields.io/badge/-Gupta-5457ff?&style=for-the-badge&logoWidth=50"/>
 </div>
 
 <br>
+
+
+<div align="center">
+        <a href="https://github.com/sg-2604"><img src="sg-2604.png" height="400" /></a>
+    </div>
 
 <div align="center">
 <img src="https://img.shields.io/badge/-A-5457ff?&style=for-the-badge&logoWidth=50"/>
